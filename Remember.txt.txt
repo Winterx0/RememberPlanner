@@ -1,0 +1,16 @@
+[Weekly Planner] Enter Date:
+Enter Notes: 
+[Monday] Enter Date:
+Enter Notes:
+[Tuesday] Enter Date:
+Enter Notes: 
+[Wednesday] Enter Date:
+Enter Notes: 
+[Thursday] Enter Date:
+Enter Notes: 
+[Friday] Enter Date:
+Enter Notes: 
+[Saturday] Enter Date:
+Enter Notes: 
+[Sunday] Enter Date:
+Enter Notes: 
